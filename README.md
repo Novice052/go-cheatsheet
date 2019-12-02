@@ -7,9 +7,11 @@ Golang things I need to keep track of.
 ## Testing
 Table Driven Tests
 
-```tests := []struct {
+```
+tests := []struct {
     // ...
 }{}
 
 for _, tt := range tests {
-}```
+}
+```
